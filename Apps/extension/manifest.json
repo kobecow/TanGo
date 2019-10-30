@@ -1,14 +1,27 @@
 {
-    "name": "TanGo Extension",
-    "version": "0.0.1",
-    "description": "show translate and send server history",
-    "browser_action": {
-        "default_icon": {                    
-          "16": "images/logo.jpg",           
-          "24": "images/logo.jpg",           
-          "32": "images/logo.jpg"
-        },
-        "default_title": "TanGo"
+  "name": "TanGo Extension",
+  "version": "0.0.1",
+  "description": "show translate and send server history",
+  "browser_action": {
+      "default_icon": {                    
+        "16": "images/logo_sample.png",           
+        "24": "images/logo_sample.png",           
+        "32": "images/logo_sample.png"
       },
-    "manifest_version": 2
+      "default_title": "TanGo"
+    },
+  "background" : {
+    
+    "scripts" : ["background.js"]
+    },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["context.js"]
+      }
+    ],
+  "permissions" : [
+    "contextMenus"
+    ],
+  "manifest_version": 2
 }
