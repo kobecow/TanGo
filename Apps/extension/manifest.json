@@ -4,9 +4,9 @@
   "description": "show translate and send server history",
   "browser_action": {
       "default_icon": {                    
-        "16": "images/logo_sample.png",           
-        "24": "images/logo_sample.png",           
-        "32": "images/logo_sample.png"
+        "16": "images/logo_16x16.png",           
+        "24": "images/logo_24x24.png",           
+        "32": "images/logo_32x32.png"
       },
       "default_title": "TanGo"
     },
