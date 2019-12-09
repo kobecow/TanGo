@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "API server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobecow/TanGo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kobecow/TanGo/issues"
+  },
+  "homepage": "https://github.com/kobecow/TanGo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
