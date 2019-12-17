@@ -1,0 +1,74 @@
+// # Word Dictionary API
+
+const x_rapidapi_host = "AAA";
+const x_rapidapi_key = "BBB";
+
+/* API Endopoint
+https://twinword-word-graph-dictionary.p.rapidapi.com/
+
+# Refference
+https://rapidapi.com/twinword/api/word-dictionary
+
+# code snippet
+
+var unirest = require("unirest");
+
+var req = unirest("GET", "https://twinword-word-graph-dictionary.p.rapidapi.com/definition/");
+
+req.query({
+	"entry": "mask"
+});
+
+req.headers({
+	"x-rapidapi-host": "AAA",
+	"x-rapidapi-key": "BBB"
+});
+
+
+req.end(function (res) {
+	if (res.error) throw new Error(res.error);
+
+	console.log(res.body);
+});
+
+
+*/
+// # Merriam Webster
+const API_key = "AAA";
+
+/* API Endopoint
+https://dictionaryapi.com/api/v3/references/collegiate/json/
+
+# Refference
+https://dictionaryapi.com/products/json
+
+# example
+word: exclude
+
+GET https://dictionaryapi.com/api/v3/references/collegiate/json/exclude?key={API_key}
+
+*/
+
+// # jisho API
+// not need API KEY
+
+
+/* API Endopoint
+https://jisho.org/api/v1/search/words
+
+# Refference
+Nothing.
+
+# example
+word: exclude
+
+GET https://jisho.org/api/v1/search/words?keyword=exclude
+
+*/
+
+// # Oxford API
+
+const APP_ID = "AAA";
+
+const Application_Key = "BBB";
+
