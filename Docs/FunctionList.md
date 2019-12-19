@@ -66,7 +66,7 @@ Phrases I reccomend.
 At 0:57: "That isn't very British."
 At 4:38: "fall out with". (using past expression "fell out with" though.)
 
-This video is only used easy clear words and expressions.  
+This video is only used easy and simple words and expressions.  
 I reccomend you to watch whole this video.
 ```
 # Register word
