@@ -58,10 +58,16 @@ Only administrator can pick YouTube contents and post them on TanGo. Each post i
 
 For example  
 
-[![xx](http://img.youtube.com/vi/oTPZWpQ9pbA/1.jpg)](http://www.youtube.com/watch?v=oTPZWpQ9pbA)
+[![Sample](http://img.youtube.com/vi/oTPZWpQ9pbA/default.jpg)](http://www.youtube.com/watch?v=oTPZWpQ9pbA)  
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/oTPZWpQ9pbA/1.jpg)](http://www.youtube.com/watch?v=oTPZWpQ9pbA)
+```text
+Talking about cultural differences.
+Phrases I reccomend.
+At 0:57: "That isn't very British."
+At 4:38: "fall out with". (using past expression "fell out with" though.)
 
-
+This video is only used easy clear words and expressions.  
+I reccomend you to watch whole this video.
+```
 # Register word
 # Learning System
