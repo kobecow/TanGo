@@ -1,6 +1,6 @@
 # Overview
 
-| FuncID      | Name | Detail    |
+| FeatID      | Name | Detail    |
 | :---        |    :----:   |       :---: |
 | 1      | Sign Up, Sign in       | [Click](#Sign\ Up,\ Sign\ in)   |
 | 2   | Onboarding        |  [Click](#Onboarding)     |
@@ -10,8 +10,8 @@
 | 6   | Register Word| [Click](#Register\ word)   |
 | 7   | Learning System| [Click](#Learning\ System)   |  
 
-### Future Functions  
- FuncID      | Name | Detail    |
+### Future Features
+ FeatID      | Name | Detail    |
 | :---        |    :----:   |       :---: |
 | 8      | Web Browser for Mobile       | Not Yet   |
 | 9      | Speaking Contest       | Not Yet   |
@@ -20,7 +20,7 @@
 # Sign Up, Sign in
 
 Basically, this feature relies on **AWS Cognito**.  
-ID Provider is only **Google**. Because this app has its function on Chrome, highlights text and call API to store text(word) in app.  
+ID Provider is only **Google**. Because this app provides an important feature on Chrome extension, which highlights text and call API to store word in app.  
 
 Both on Web and mobile, once user passes authentication, **never needs to sign-in again.**  
 
@@ -37,7 +37,7 @@ It is available to be seen again by user demand. It might be in **Help section.*
 This feature is one of main features. This list is generated/added by 2 ways.  
 First one is by Chrome extension of TanGo. The other one is user input on Tango(Web and mobile).
 
-### Details of WordList function
+### Details of WordList feature
 
  - English/Japanese meaning of word
  - Audio of pronunciation of word
@@ -45,7 +45,7 @@ First one is by Chrome extension of TanGo. The other one is user input on Tango(
  - Japanese meaning of sample sentense 
  - Checking pronunciation of word user speak to mobile
 
-This list is updated everyday. Updating is based on [Learning System](#Learning\ System) .
+wordlist is updated at every time a user adds word, and at specific time. Updating is based on [Learning System](#Learning\ System) .
 
 # Learning History
 This feature shows how many words user learn on TanGo.
@@ -75,3 +75,21 @@ An User can highlight a word. Then double fingers click it, click `add word list
 Or on main app of TanGo, a user can input word and add it directly.
 
 # Learning System
+For learning English words effectively, TanGo shows same words a couple of times.  
+For example,  
+At 18th Dec 2019, A user add `daunt` to TanGo.  
+At 18th Dec 2019, Tango shows `daunt` in WordList.  
+At 20th Dec 2019, Tango shows `daunt` in WordList again.  
+At 27th Dec 2019, Tango shows `daunt` in WordList again.  
+At 27th Jan 2020, Tango shows `daunt` in WordList again.  
+
+
+# Web Browser for Mobile
+This is alternative for Chrome extension. Because Google Chrome on mobile doesn't allow using extension.   
+For now, I don't know what component for this feature. But I'm sure it is popular solution.
+
+# Speaking Contest
+All users can participate this contest.  
+users send short speech( less than 3min) about specific topic Tango provides.  
+Then, all users can listen to speeches and review them.  
+Tango provides rubric for review.
