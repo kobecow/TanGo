@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="10" width="10">
+  <defs>
+    <rect id="rect-1" opacity="1" x="0" y="0" width="10" height="10"/>
+  </defs>
+  <g opacity="1">
+    <g opacity="1"/>
+    <g opacity="1">
+      <rect fill="rgb(200,200,200)" fill-opacity="1" opacity="1" x="2" y="3" width="0" height="0"/>
+    </g>
+    <g opacity="1">
+      <path fill="rgb(42,201,64)" fill-opacity="1" opacity="1" fill-rule="evenodd" d="M0 2L1.5 2L3 9L1.5 9L0 2Z"/>
+    </g>
+    <g opacity="1">
+      <path fill="rgb(42,201,64)" fill-opacity="1" opacity="1" fill-rule="evenodd" d="M5 2L3.5 2L2 9L3.5 9L5 2Z"/>
+    </g>
+    <g opacity="1">
+      <path fill="rgb(42,201,64)" fill-opacity="1" opacity="1" fill-rule="evenodd" d="M5 2L6.5 2L8 9L6.5 9L5 2Z"/>
+    </g>
+    <g opacity="1">
+      <path fill="rgb(42,201,64)" fill-opacity="1" opacity="1" fill-rule="evenodd" d="M10 2L8.5 2L7 9L8.5 9L10 2Z"/>
+    </g>
+    <g opacity="1">
+      <rect fill="rgb(42,201,64)" fill-opacity="1" opacity="1" x="4" y="2" width="2" height="1"/>
+    </g>
+  </g>
+</svg>

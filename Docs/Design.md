@@ -2,6 +2,13 @@
  - **smart**
  - **simple**
 
+# Target
+ - Educated 
+ - Starbucks Lover
+ - Wearing Bussiness Casual 
+ - Young Professional
+ - Apple Products Lover
+
 # Principle
 [Material Design](https://material.io/)
 
@@ -11,7 +18,7 @@
 
     - Dark ![#087f23](https://placehold.it/15/087f23/000000?text=+)`#087f23` String Color : ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+)
 
-    - Light ![#80e27e](https://placehold.it/15/80e27e/000000?text=+)`#80e27e`  
+    - Light ![#80e27e](https://placehold.it/15/80e27e/000000?text=+)`#80e27e`   String Color : ![#000000](https://placehold.it/15/000000/000000?text=+)
 
 - Secondary Color  ![#ffca28](https://placehold.it/15/ffca28/000000?text=+) `#ffca28` String Color : ![#000000](https://placehold.it/15/000000/000000?text=+)
 
