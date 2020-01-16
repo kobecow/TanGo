@@ -9,4 +9,4 @@ TanGo is supporting to learn English.
 pretty much services run on Node.js. But they are on microservices. So Some services run on Spring Boot, Django.
 
 ### Overview
-![overview_architecture](https://raw.githubusercontent.com/kobecow/TanGo/image/images/image.png)
+![overview_architecture](https://user-images.githubusercontent.com/26798028/72557230-51e8f100-386e-11ea-91d9-c05ed7bb9f51.png)
